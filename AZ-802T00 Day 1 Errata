@@ -1,8 +1,9 @@
-# AZ-104T00 Day One Errata - Learning Path 1: Learning Path 1: Deploy and manage Active Directory Domain Services
+# AZ-802T00 Day One Errata
+## Learning Path 1: Deploy and manage Active Directory Domain Services
 
 ## Note: Use PowerShell ISE since direct paste in PowerShell console doesn't work.
 
-## Lab 01: Implementing identity services and Group Policy
+## Lab 01: Implementing identity services and Group Policy (45 Minutes)
 
 ### Exercise 1: Deploying a new domain controller on Server Core
 Task 1: Deploy AD DS on a new Windows Server Core server <br>
